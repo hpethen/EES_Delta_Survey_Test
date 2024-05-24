@@ -1,2 +1,2 @@
 # EES_Delta_Survey_Test QGIS
- EES Delta Survey data for the test project involving Gharbiya Governorate.
+ EES Delta Survey data for the test project involving Gharbiya Governorate. All the data is taken from the EES Delta Survey data (https://www.ees.ac.uk/our-cause/research/delta-survey.html) and the accompanying publication. J. Spencer 2024. Archaeological Sites of the Nile Delta of Egypt: A gazetteer. Egypt Exploration Society. The data is used here to test the QGIS2Web plugin of QGIS 3. If you have access to this please do not pass on this data or webmap. 
